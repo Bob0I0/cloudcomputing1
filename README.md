@@ -9,7 +9,6 @@ sdk: docker
 app_port: 7860
 pinned: false
 short_description: Belajar PaaS
-app_file: app/index.html
 ---
 # SisfoCloud
 
