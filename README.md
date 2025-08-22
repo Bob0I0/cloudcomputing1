@@ -2,7 +2,7 @@ metadata
 ---
 title: cloudcomputing1
 emoji: 👀
-license: other
+license: mit
 colorFrom: blue
 colorTo: green
 sdk: docker
