@@ -1,6 +1,6 @@
 ---
 metadata
-title: Cloudcomputing1
+title: cloudcomputing1
 emoji: 👀
 license: other
 colorFrom: blue
