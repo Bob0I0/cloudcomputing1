@@ -1,10 +1,10 @@
 ---
 metadata
 title: Cloudcomputing1
-emoji: 💻
+emoji: 👀
 license: other
-colorFrom: green
-colorTo: blue
+colorFrom: blue
+colorTo: green
 sdk: docker
 app_port: 7860
 pinned: false
