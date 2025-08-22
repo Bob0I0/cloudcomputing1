@@ -1,15 +1,15 @@
 metadata
 ---
 title: cloudcomputing1
-emoji: 👀
+emoji: 🐳
 license: other
-colorFrom: blue
-colorTo: green
+colorFrom: purple
+colorTo: gray
 sdk: docker
 app_port: 7860
 pinned: false
 short_description: Belajar PaaS
-app_file: .github/workflows/deploy.py
+
 ---
 # SisfoCloud
 
